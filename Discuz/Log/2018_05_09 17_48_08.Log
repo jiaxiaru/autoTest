@@ -1,0 +1,16 @@
+[2018-05-09 17:48:12] [INFO] 启动ChromeDriver
+[2018-05-09 17:48:13] [INFO] 打开网址http://127.0.0.1:8087/Discuz_X3.2_SC_GBK/upload/forum.php
+[2018-05-09 17:48:13] [INFO] 找到元素[[ChromeDriver: chrome on XP (6d876cbb63cf9cdac767571e3adb3950)] -> id: ls_username]
+[2018-05-09 17:48:13] [INFO] 输入内容为：admin
+[2018-05-09 17:48:13] [INFO] 找到元素[[ChromeDriver: chrome on XP (6d876cbb63cf9cdac767571e3adb3950)] -> id: ls_password]
+[2018-05-09 17:48:13] [INFO] 输入内容为：password
+[2018-05-09 17:48:13] [INFO] 找到元素[[ChromeDriver: chrome on XP (6d876cbb63cf9cdac767571e3adb3950)] -> xpath: //*[@id="lsform"]/div/div/table/tbody/tr[2]/td[3]/button]
+[2018-05-09 17:48:13] [INFO] 元素点击成功
+[2018-05-09 17:48:16] [INFO] 找到元素[[ChromeDriver: chrome on XP (6d876cbb63cf9cdac767571e3adb3950)] -> xpath: //*[@id="category_1"]/table/tbody/tr[1]/td[2]/h2/a]
+[2018-05-09 17:48:17] [INFO] 元素点击成功
+[2018-05-09 17:48:17] [INFO] 找到元素[[ChromeDriver: chrome on XP (6d876cbb63cf9cdac767571e3adb3950)] -> id: subject]
+[2018-05-09 17:48:18] [INFO] 输入内容为：我的新帖子
+[2018-05-09 17:48:18] [INFO] 找到元素[[ChromeDriver: chrome on XP (6d876cbb63cf9cdac767571e3adb3950)] -> id: fastpostmessage]
+[2018-05-09 17:48:18] [INFO] 输入内容为：欢迎回帖
+[2018-05-09 17:48:18] [INFO] 找到元素[[ChromeDriver: chrome on XP (6d876cbb63cf9cdac767571e3adb3950)] -> id: fastpostsubmit]
+[2018-05-09 17:48:18] [INFO] 元素点击成功

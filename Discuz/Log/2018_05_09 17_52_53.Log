@@ -1,0 +1,12 @@
+[2018-05-09 17:52:57] [INFO] 启动ChromeDriver
+[2018-05-09 17:52:58] [INFO] 打开网址http://127.0.0.1:8087/Discuz_X3.2_SC_GBK/upload/forum.php
+[2018-05-09 17:52:58] [INFO] 找到元素[[ChromeDriver: chrome on XP (68a92e10a7e335a5d9cd3f56ee5578af)] -> id: ls_username]
+[2018-05-09 17:52:58] [INFO] 输入内容为：admin
+[2018-05-09 17:52:58] [INFO] 找到元素[[ChromeDriver: chrome on XP (68a92e10a7e335a5d9cd3f56ee5578af)] -> id: ls_password]
+[2018-05-09 17:52:58] [INFO] 输入内容为：password
+[2018-05-09 17:52:58] [INFO] 找到元素[[ChromeDriver: chrome on XP (68a92e10a7e335a5d9cd3f56ee5578af)] -> xpath: //*[@id="lsform"]/div/div/table/tbody/tr[2]/td[3]/button]
+[2018-05-09 17:52:58] [INFO] 元素点击成功
+[2018-05-09 17:52:58] [INFO] 开始查找元素：By.xpath: //*[@id="category_1"]/table/tbody/tr[1]/td[2]/h2/a
+[2018-05-09 17:52:58] [INFO] 找到了元素 [By.xpath: //*[@id="category_1"]/table/tbody/tr[1]/td[2]/h2/a]
+[2018-05-09 17:52:58] [INFO] 找到元素[[ChromeDriver: chrome on XP (68a92e10a7e335a5d9cd3f56ee5578af)] -> xpath: //*[@id="category_1"]/table/tbody/tr[1]/td[2]/h2/a]
+[2018-05-09 17:52:58] [INFO] 元素点击成功

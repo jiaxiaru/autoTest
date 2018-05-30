@@ -1,0 +1,20 @@
+[2018-05-09 14:25:29] [INFO] 启动ChromeDriver
+[2018-05-09 14:25:29] [INFO] 打开网址http://127.0.0.1:8087/Discuz_X3.2_SC_GBK/upload/forum.php
+[2018-05-09 14:25:29] [INFO] 找到元素[[ChromeDriver: chrome on XP (5bea928f1bb883ea9fd4ae7db7faafe3)] -> id: ls_username]
+[2018-05-09 14:25:30] [INFO] 输入内容为：jxr
+[2018-05-09 14:25:30] [INFO] 找到元素[[ChromeDriver: chrome on XP (5bea928f1bb883ea9fd4ae7db7faafe3)] -> id: ls_password]
+[2018-05-09 14:25:30] [INFO] 输入内容为：123456
+[2018-05-09 14:25:30] [INFO] 找到元素[[ChromeDriver: chrome on XP (5bea928f1bb883ea9fd4ae7db7faafe3)] -> xpath: //*[@id="lsform"]/div/div/table/tbody/tr[2]/td[3]/button]
+[2018-05-09 14:25:30] [INFO] 元素点击成功
+[2018-05-09 14:25:33] [INFO] 找到元素[[ChromeDriver: chrome on XP (5bea928f1bb883ea9fd4ae7db7faafe3)] -> xpath: //*[@id="category_1"]/table/tbody/tr[2]/td[2]/h2/a]
+[2018-05-09 14:25:33] [INFO] 元素点击成功
+[2018-05-09 14:25:33] [INFO] 找到元素[[ChromeDriver: chrome on XP (5bea928f1bb883ea9fd4ae7db7faafe3)] -> id: subject]
+[2018-05-09 14:25:34] [INFO] 输入内容为：新板块的第一篇帖子
+[2018-05-09 14:25:34] [INFO] 找到元素[[ChromeDriver: chrome on XP (5bea928f1bb883ea9fd4ae7db7faafe3)] -> id: fastpostmessage]
+[2018-05-09 14:25:34] [INFO] 输入内容为：欢迎回帖，.....................
+[2018-05-09 14:25:34] [INFO] 找到元素[[ChromeDriver: chrome on XP (5bea928f1bb883ea9fd4ae7db7faafe3)] -> id: fastpostsubmit]
+[2018-05-09 14:25:34] [INFO] 元素点击成功
+[2018-05-09 14:25:37] [INFO] 找到元素[[ChromeDriver: chrome on XP (5bea928f1bb883ea9fd4ae7db7faafe3)] -> class name: pt]
+[2018-05-09 14:25:37] [INFO] 输入内容为：
+[2018-05-09 14:25:37] [INFO] 找到元素[[ChromeDriver: chrome on XP (5bea928f1bb883ea9fd4ae7db7faafe3)] -> xpath: //*[@id="fastpostsubmit"]]
+[2018-05-09 14:25:37] [INFO] 元素点击成功

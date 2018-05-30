@@ -1,0 +1,14 @@
+[2018-05-09 18:59:51] [INFO] 启动FirefoxDriver
+[2018-05-09 18:59:52] [INFO] 打开网址http://127.0.0.1:8087/Discuz_X3.2_SC_GBK/upload/forum.php
+[2018-05-09 18:59:52] [INFO] 找到元素[[FirefoxDriver: firefox on XP (6230d70e-8c9a-4643-8d63-0b788d484632)] -> id: ls_username]
+[2018-05-09 18:59:52] [INFO] 输入内容为：jxr
+[2018-05-09 18:59:52] [INFO] 找到元素[[FirefoxDriver: firefox on XP (6230d70e-8c9a-4643-8d63-0b788d484632)] -> id: ls_password]
+[2018-05-09 18:59:52] [INFO] 输入内容为：123456
+[2018-05-09 18:59:52] [INFO] 找到元素[[FirefoxDriver: firefox on XP (6230d70e-8c9a-4643-8d63-0b788d484632)] -> xpath: //*[@id="lsform"]/div/div/table/tbody/tr[2]/td[3]/button]
+[2018-05-09 18:59:53] [INFO] 元素点击成功
+[2018-05-09 18:59:53] [INFO] 开始查找元素：By.xpath: //*[@id="scbar_btn"]
+[2018-05-09 18:59:53] [INFO] 找到了元素 [By.xpath: //*[@id="scbar_btn"]]
+[2018-05-09 18:59:53] [INFO] 找到元素[[FirefoxDriver: firefox on XP (6230d70e-8c9a-4643-8d63-0b788d484632)] -> id: scbar_txt]
+[2018-05-09 18:59:53] [INFO] 输入内容为：我的帖子
+[2018-05-09 18:59:53] [INFO] 找到元素[[FirefoxDriver: firefox on XP (6230d70e-8c9a-4643-8d63-0b788d484632)] -> xpath: //*[@id="scbar_btn"]]
+[2018-05-09 18:59:54] [INFO] 元素点击成功

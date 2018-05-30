@@ -1,0 +1,27 @@
+[2018-05-09 20:46:21] [INFO] 启动FirefoxDriver
+[2018-05-09 20:46:22] [INFO] 打开网址http://127.0.0.1:8087/Discuz_X3.2_SC_GBK/upload/forum.php
+[2018-05-09 20:46:22] [INFO] 找到元素[[FirefoxDriver: firefox on XP (b72d81eb-8fd2-41d2-a733-07a9958c4fac)] -> id: ls_username]
+[2018-05-09 20:46:22] [INFO] 输入内容为：jxr
+[2018-05-09 20:46:22] [INFO] 找到元素[[FirefoxDriver: firefox on XP (b72d81eb-8fd2-41d2-a733-07a9958c4fac)] -> id: ls_password]
+[2018-05-09 20:46:22] [INFO] 输入内容为：123456
+[2018-05-09 20:46:22] [INFO] 找到元素[[FirefoxDriver: firefox on XP (b72d81eb-8fd2-41d2-a733-07a9958c4fac)] -> xpath: //*[@id="lsform"]/div/div/table/tbody/tr[2]/td[3]/button]
+[2018-05-09 20:46:23] [INFO] 元素点击成功
+[2018-05-09 20:46:23] [INFO] 开始查找元素：By.xpath: //*[@id="scbar_btn"]
+[2018-05-09 20:46:23] [INFO] 找到了元素 [By.xpath: //*[@id="scbar_btn"]]
+[2018-05-09 20:46:23] [INFO] 找到元素[[FirefoxDriver: firefox on XP (b72d81eb-8fd2-41d2-a733-07a9958c4fac)] -> id: scbar_txt]
+[2018-05-09 20:46:23] [INFO] 输入内容为：tit
+[2018-05-09 20:46:23] [INFO] 找到元素[[FirefoxDriver: firefox on XP (b72d81eb-8fd2-41d2-a733-07a9958c4fac)] -> xpath: //*[@id="scbar_btn"]]
+[2018-05-09 20:46:23] [INFO] 元素点击成功
+[2018-05-09 20:46:23] [INFO] 获取窗口2147483652
+[2018-05-09 20:46:23] [INFO] 获取窗口2147483659
+[2018-05-09 20:46:23] [INFO] 开始查找元素：By.xpath: //*[@id="38"]/h3/a/strong/font
+[2018-05-09 20:46:25] [INFO] 找到了元素 [By.xpath: //*[@id="38"]/h3/a/strong/font]
+[2018-05-09 20:46:25] [INFO] 找到元素[[FirefoxDriver: firefox on XP (b72d81eb-8fd2-41d2-a733-07a9958c4fac)] -> xpath: //*[@id="38"]/h3/a/strong/font]
+[2018-05-09 20:46:25] [INFO] 元素点击成功
+[2018-05-09 20:46:25] [INFO] 获取窗口2147483652
+[2018-05-09 20:46:25] [INFO] 获取窗口2147483659
+[2018-05-09 20:46:25] [INFO] 获取窗口2147483662
+[2018-05-09 20:46:25] [INFO] 开始查找元素：By.id: thread_subject
+[2018-05-09 20:46:26] [INFO] 找到了元素 [By.id: thread_subject]
+[2018-05-09 20:46:26] [INFO] 找到元素[[FirefoxDriver: firefox on XP (b72d81eb-8fd2-41d2-a733-07a9958c4fac)] -> id: thread_subject]
+[2018-05-09 20:46:26] [INFO] 找到了期望的文字: [tit]

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<suite name="panduanWhiteTest">
+    <parameter name="Browser" value="chrome"/>
+    <test name="product">
+        <classes>
+            <class name="testcase.Discuz_login"/>
+        </classes>
+    </test>
+
+
+</suite>

@@ -1,0 +1,16 @@
+[2018-05-08 11:48:44] [INFO] 启动ChromeDriver
+[2018-05-08 11:48:45] [INFO] 打开网址http://127.0.0.1:8087/Discuz_X3.2_SC_GBK/upload/forum.php
+[2018-05-08 11:48:45] [INFO] 找到元素[[ChromeDriver: chrome on XP (f9b4c28a747406908f1867a2123d35c8)] -> id: ls_username]
+[2018-05-08 11:48:45] [INFO] 输入内容为：admin
+[2018-05-08 11:48:45] [INFO] 找到元素[[ChromeDriver: chrome on XP (f9b4c28a747406908f1867a2123d35c8)] -> id: ls_password]
+[2018-05-08 11:48:45] [INFO] 输入内容为：password
+[2018-05-08 11:48:45] [INFO] 找到元素[[ChromeDriver: chrome on XP (f9b4c28a747406908f1867a2123d35c8)] -> xpath: //*[@id="lsform"]/div/div/table/tbody/tr[2]/td[3]/button]
+[2018-05-08 11:48:45] [INFO] 元素点击成功
+[2018-05-08 11:48:49] [INFO] 找到元素[[ChromeDriver: chrome on XP (f9b4c28a747406908f1867a2123d35c8)] -> xpath: //*[@id="category_1"]/table/tbody/tr[1]/td[4]/div/a]
+[2018-05-08 11:48:50] [INFO] 元素点击成功
+[2018-05-08 11:48:50] [INFO] 找到元素[[ChromeDriver: chrome on XP (f9b4c28a747406908f1867a2123d35c8)] -> class name: pt]
+[2018-05-08 11:48:50] [INFO] 输入内容为：哈哈
+[2018-05-08 11:48:50] [INFO] 找到元素[[ChromeDriver: chrome on XP (f9b4c28a747406908f1867a2123d35c8)] -> xpath: //*[@id="fastpostsubmit"]]
+[2018-05-08 11:48:50] [INFO] 元素点击成功
+[2018-05-08 11:48:50] [INFO] 找到元素[[ChromeDriver: chrome on XP (f9b4c28a747406908f1867a2123d35c8)] -> xpath: //*[@id="um"]/p[1]/a[7]]
+[2018-05-08 11:48:50] [INFO] 元素点击成功

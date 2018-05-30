@@ -1,0 +1,8 @@
+[2018-05-22 09:19:12] [INFO] 启动FirefoxDriver
+[2018-05-22 09:20:18] [INFO] 打开网址http://127.0.0.1:8087/Discuz_X3.2_SC_GBK/upload/forum.php
+[2018-05-22 09:20:18] [INFO] 找到元素[[FirefoxDriver: firefox on XP (742eeb1b-6427-437d-a089-fe4f4f75ca04)] -> id: ls_username]
+[2018-05-22 09:20:18] [INFO] 输入内容为：admin
+[2018-05-22 09:20:18] [INFO] 找到元素[[FirefoxDriver: firefox on XP (742eeb1b-6427-437d-a089-fe4f4f75ca04)] -> id: ls_password]
+[2018-05-22 09:20:18] [INFO] 输入内容为：password
+[2018-05-22 09:20:18] [INFO] 找到元素[[FirefoxDriver: firefox on XP (742eeb1b-6427-437d-a089-fe4f4f75ca04)] -> xpath: //*[@id="lsform"]/div/div/table/tbody/tr[2]/td[3]/button]
+[2018-05-22 09:20:19] [INFO] 元素点击成功

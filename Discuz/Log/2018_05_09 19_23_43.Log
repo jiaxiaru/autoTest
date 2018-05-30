@@ -1,0 +1,15 @@
+[2018-05-09 19:23:49] [INFO] 启动FirefoxDriver
+[2018-05-09 19:23:50] [INFO] 打开网址http://127.0.0.1:8087/Discuz_X3.2_SC_GBK/upload/forum.php
+[2018-05-09 19:23:50] [INFO] 找到元素[[FirefoxDriver: firefox on XP (ca0da48b-36ec-4e62-9d04-0d2a937f1dd9)] -> id: ls_username]
+[2018-05-09 19:23:50] [INFO] 输入内容为：jxr
+[2018-05-09 19:23:50] [INFO] 找到元素[[FirefoxDriver: firefox on XP (ca0da48b-36ec-4e62-9d04-0d2a937f1dd9)] -> id: ls_password]
+[2018-05-09 19:23:50] [INFO] 输入内容为：123456
+[2018-05-09 19:23:50] [INFO] 找到元素[[FirefoxDriver: firefox on XP (ca0da48b-36ec-4e62-9d04-0d2a937f1dd9)] -> xpath: //*[@id="lsform"]/div/div/table/tbody/tr[2]/td[3]/button]
+[2018-05-09 19:23:51] [INFO] 元素点击成功
+[2018-05-09 19:23:51] [INFO] 开始查找元素：By.xpath: //*[@id="scbar_btn"]
+[2018-05-09 19:23:51] [INFO] 找到了元素 [By.xpath: //*[@id="scbar_btn"]]
+[2018-05-09 19:23:51] [INFO] 找到元素[[FirefoxDriver: firefox on XP (ca0da48b-36ec-4e62-9d04-0d2a937f1dd9)] -> id: scbar_txt]
+[2018-05-09 19:23:51] [INFO] 输入内容为：haotest
+[2018-05-09 19:23:51] [INFO] 找到元素[[FirefoxDriver: firefox on XP (ca0da48b-36ec-4e62-9d04-0d2a937f1dd9)] -> xpath: //*[@id="scbar_btn"]]
+[2018-05-09 19:23:51] [INFO] 元素点击成功
+[2018-05-09 19:23:51] [ERROR] 预期文字是：[haotest],但实际文字是: [论坛 - Powered by Discuz!]
