@@ -4,13 +4,9 @@
     <test name="product">
         <classes>
             <class name="testcase.Discuz_login"/>
-        </classes>
-    </test>
-       <test name="product1">
-        <classes>
             <class name="testcase.WriteText_submit"/>
         </classes>
-    </test>
+   
 
 
 </suite>
