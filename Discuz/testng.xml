@@ -6,7 +6,7 @@
             <class name="testcase.Discuz_login"/>
             <class name="testcase.WriteText_submit"/>
         </classes>
-   
+    </test>
 
 
 </suite>
