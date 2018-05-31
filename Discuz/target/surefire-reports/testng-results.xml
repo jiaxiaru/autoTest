@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Command line suite" duration-ms="16180" started-at="2018-05-30T11:39:05Z" finished-at="2018-05-30T11:39:21Z">
+  <suite name="Command line suite" duration-ms="14978" started-at="2018-05-31T02:41:57Z" finished-at="2018-05-31T02:42:12Z">
     <groups>
     </groups>
-    <test name="Command line test" duration-ms="16180" started-at="2018-05-30T11:39:05Z" finished-at="2018-05-30T11:39:21Z">
+    <test name="Command line test" duration-ms="14978" started-at="2018-05-31T02:41:57Z" finished-at="2018-05-31T02:42:12Z">
       <class name="testcase.SubmitNewBkTest">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:testcase.SubmitNewBkTest@7f690630]" name="setUp" is-config="true" duration-ms="7560" started-at="2018-05-30T19:39:05Z" finished-at="2018-05-30T19:39:12Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testcase.SubmitNewBkTest@7f690630]" name="setUp" is-config="true" duration-ms="6605" started-at="2018-05-31T10:41:57Z" finished-at="2018-05-31T10:42:03Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="submitnewbk()[pri:0, instance:testcase.SubmitNewBkTest@7f690630]" name="submitnewbk" duration-ms="8597" started-at="2018-05-30T19:39:12Z" finished-at="2018-05-30T19:39:21Z">
+        <test-method status="PASS" signature="submitnewbk()[pri:0, instance:testcase.SubmitNewBkTest@7f690630]" name="submitnewbk" duration-ms="8353" started-at="2018-05-31T10:42:03Z" finished-at="2018-05-31T10:42:12Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- submitnewbk -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcase.SubmitNewBkTest@7f690630]" name="tearDown" is-config="true" duration-ms="0" started-at="2018-05-30T19:39:21Z" finished-at="2018-05-30T19:39:21Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcase.SubmitNewBkTest@7f690630]" name="tearDown" is-config="true" duration-ms="0" started-at="2018-05-31T10:42:12Z" finished-at="2018-05-31T10:42:12Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
